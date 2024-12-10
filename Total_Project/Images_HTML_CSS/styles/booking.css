@@ -6,8 +6,12 @@
       height: 200px;
       width: 100%;
   }
- a {
-    text-decoration: none;
+  a {
+    /* text-decoration: none; */
+    color: white;
+    text-decoration: double;
     
-    
+ }
+ h1 {
+    width: 500px;
  }
